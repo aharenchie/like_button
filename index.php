@@ -2,7 +2,7 @@
 <html lang="ja" dir="ltr" >
 <head>
   <meta charset="UTF-8">
-  <title>いいね！！</title>
+  <title>いいね！！！</title>
 </head>
 <style type="text/css">
 .btn{
@@ -41,7 +41,7 @@
 <body>
   <center>
    <form action="" method="post">
-    <input type="submit" name="add" value="いいね！！" class="btn">
+    <input type="submit" name="add" value="いいね！！！" class="btn">
   </form>
    <img src="<?php echo $img;?>" width="<?php echo $size;?>">
  </center>
